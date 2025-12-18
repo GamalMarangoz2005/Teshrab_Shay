@@ -1,5 +1,7 @@
 # Teshrab_Shay_Project 🍵🪴
-## Fun project demonstrating my skills to write C++ programs, showing my passion to coding ⌨️ and sharing my sense of humor 🤣 among other developers to spread the joy of coding.
+
+## A Word about the Project 
+Fun project demonstrating my skills to write C++ programs, showing my passion to coding ⌨️ and sharing my sense of humor 🤣 among other developers to spread the joy of coding.
 
 ### Project Description 
 The Program starts by prompting the user to ask if they want to drink tea or not. If so, the user will be prompted with
